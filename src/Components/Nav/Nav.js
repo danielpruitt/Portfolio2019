@@ -79,6 +79,10 @@ const Nav = () => (
                     <Columns
                     isGapless = {true}>
                         <Col>
+                            <p className='azonix large'>Daniel Pruitt</p>
+
+                        </Col>
+                        <Col>
 
                         <Link to='/'>
                                 <div className='nav-link'>
