@@ -1,0 +1,42 @@
+#sideNav { 
+    width:20vw;
+    height:100vh;
+    background-color:#363636;
+    padding:.85rem;
+}
+
+.simple-nav {
+    background-color: #363636;
+    color:white;
+}
+.extralarge { 
+    font-size: 2.6rem;
+    color:white;
+    margin-bottom: .5rem;
+}
+.large{ 
+    font-size: 1.5rem;
+    color:white;
+}
+
+.nav-link { 
+    font-family:'azonix';
+    letter-spacing: .15rem;
+    font-size: 1.2rem;
+    color:white;
+}
+
+.nav-link :hover{
+    color: orange;
+    cursor: pointer;
+}
+
+#sideNav a {
+    color: white;
+}
+a :hover {
+    color:orange;
+}
+.simple-nav a {
+    color: white;
+}

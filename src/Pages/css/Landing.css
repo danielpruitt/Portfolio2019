@@ -1,0 +1,13 @@
+.header-bar { 
+    background-color: #363636;
+    width:80vw;
+    height:15vh;
+}
+.header-title { 
+    font-size:5vh;
+    font-family: 'azonix';
+    padding:1.3rem;
+    color:white;
+    margin-right:2vw;
+}
+
