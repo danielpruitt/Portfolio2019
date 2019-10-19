@@ -67,7 +67,7 @@ const Nav = () => (
                 <Columns>
                     <Col>
                     <div className='azonix'>
-                    <a href='https://drive.google.com/file/d/1ciUMezY5rL3djVL4vzUoX-T6TSSyQA5d/view?usp=sharing' target='_blank' rel='noreferrer noopener'><span>Resume</span></a>
+                    <a href='https://drive.google.com/file/d/1LE1SfafizuMvi8ATi5lZRrpymLWab5ON/view?usp=sharing' target='_blank' rel='noreferrer noopener'><span>Resume</span></a>
                     </div>
                     </Col>
                 </Columns>
