@@ -108,7 +108,7 @@ const Nav = () => (
                         </Col>
                         <Col>
                         <div className=' nav-link'>
-                        <a href='https://drive.google.com/file/d/1ciUMezY5rL3djVL4vzUoX-T6TSSyQA5d/view?usp=sharing' target='_blank' rel='noreferrer noopener'><span>Resume</span></a>
+                        <a href='https://drive.google.com/file/d/1-eNlrlxFknK-IVPGJg78qctT8iPomTor/view?usp=sharing' target='_blank' rel='noreferrer noopener'><span>Resume</span></a>
                         </div>
                     </Col>
                     </Columns>
